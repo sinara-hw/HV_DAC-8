@@ -52,7 +52,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Fastino_DAC_channel.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -69,7 +69,7 @@ DocumentUniqueId=WMPUBMQU
 
 [Document2]
 DocumentPath=Fastino_Supply.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -86,7 +86,7 @@ DocumentUniqueId=RGNJYCWR
 
 [Document3]
 DocumentPath=Fastino_FPGA.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -103,7 +103,7 @@ DocumentUniqueId=XDEHXODJ
 
 [Document4]
 DocumentPath=Fastino_FPGA_LVDS.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -119,25 +119,8 @@ GenerateClassCluster=0
 DocumentUniqueId=RFUWQEQD
 
 [Document5]
-DocumentPath=Fastino-connectors.schdoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RWYQKGMG
-
-[Document6]
 DocumentPath=Fastino_FPGA_Config.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -152,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTEESTAX
 
-[Document7]
+[Document6]
 DocumentPath=Fastino-DIOT.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=Fastino-DIOT.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,9 +169,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LEDSXKAD
 
-[Document9]
+[Document8]
 DocumentPath=Fastino-DIOT.schdoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -203,9 +186,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYDWVJPF
 
-[Document10]
+[Document9]
 DocumentPath=Fastino_DAC_Series_Termination.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -220,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTOAKYVA
 
-[Document11]
+[Document10]
 DocumentPath=Fastino_FPGA_LVDS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=Fastino_FPGA_Config.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=Fastino_FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,9 +254,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=Fastino_FPGA_Supply.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -288,9 +271,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGRSTQFR
 
-[Document15]
+[Document14]
 DocumentPath=Fastino_References.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -305,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWMMCYOD
 
-[Document16]
+[Document15]
 DocumentPath=..\Panel\Panel_Fastino.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,9 +305,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=Fastino_DIOT_Connectors_P1_P6.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -339,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMUUFYQV
 
-[Document18]
+[Document17]
 DocumentPath=Fastino_CPCIS_Connectors_P1_P6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=Fastino_DIOT_Connectors_P1_P6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=Fastino-DIOT.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,6 +372,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZGNPNZAO
+
+[Document20]
+DocumentPath=HV_Amp_Discrete.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UCCZPBHZ
+
+[Document21]
+DocumentPath=power_supplies_HVAMP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OQYOVFAE
 
 [ProjectVariant1]
 UniqueId=4E8EF4FA-1004-4098-BFB3-EC9401DFD915
