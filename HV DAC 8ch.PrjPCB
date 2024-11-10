@@ -52,7 +52,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Fastino_DAC_channel.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -69,7 +69,7 @@ DocumentUniqueId=WMPUBMQU
 
 [Document2]
 DocumentPath=Fastino_Supply.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -86,7 +86,7 @@ DocumentUniqueId=RGNJYCWR
 
 [Document3]
 DocumentPath=Fastino_FPGA.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -103,7 +103,7 @@ DocumentUniqueId=XDEHXODJ
 
 [Document4]
 DocumentPath=Fastino_FPGA_LVDS.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -120,7 +120,7 @@ DocumentUniqueId=RFUWQEQD
 
 [Document5]
 DocumentPath=Fastino_FPGA_Config.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -171,7 +171,7 @@ DocumentUniqueId=LEDSXKAD
 
 [Document8]
 DocumentPath=Fastino-DIOT.schdoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -188,7 +188,7 @@ DocumentUniqueId=WYDWVJPF
 
 [Document9]
 DocumentPath=Fastino_DAC_Series_Termination.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -256,7 +256,7 @@ DocumentUniqueId=
 
 [Document13]
 DocumentPath=Fastino_FPGA_Supply.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -273,7 +273,7 @@ DocumentUniqueId=AGRSTQFR
 
 [Document14]
 DocumentPath=Fastino_References.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -307,7 +307,7 @@ DocumentUniqueId=
 
 [Document16]
 DocumentPath=Fastino_DIOT_Connectors_P1_P6.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
