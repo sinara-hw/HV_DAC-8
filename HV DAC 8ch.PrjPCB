@@ -153,7 +153,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=Fastino-DIOT.PCBDOC
+DocumentPath=HV_DAC_8ch-DIOT.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -412,285 +412,182 @@ UniqueId=4E8EF4FA-1004-4098-BFB3-EC9401DFD915
 Description=STD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=92
+VariationCount=57
 Variation1=Designator=IC12|UniqueId=\HFAGDKZA\ICPKYPXS|Kind=1|AlternatePart==Device
 ParamVariation1=ParameterName=Comment|VariantValue==Device
 ParamDesignator1=IC12
 Variation2=Designator=C94|UniqueId=\HFAGDKZA\KNIHHOIH|Kind=1|AlternatePart==Value
 ParamVariation2=ParameterName=Comment|VariantValue==Value
 ParamDesignator2=C94
-Variation3=Designator=RN2|UniqueId=\HFAGDKZA\WRKWIITX|Kind=1|AlternatePart==Value
-ParamVariation3=ParameterName=Comment|VariantValue==Value
-ParamDesignator3=RN2
-Variation4=Designator=J8|UniqueId=\GEYHJMZS\LIDFICHD|Kind=1|AlternatePart=
-Variation5=Designator=J2|UniqueId=\GEYHJMZS\TVLTPAMU|Kind=1|AlternatePart=
-Variation6=Designator=J9|UniqueId=\GEYHJMZS\HQYQOTEN|Kind=1|AlternatePart=
-Variation7=Designator=IC23|UniqueId=\GEYHJMZS\WZSSQUUJ|Kind=1|AlternatePart==Device
+Variation3=Designator=J8|UniqueId=\GEYHJMZS\LIDFICHD|Kind=1|AlternatePart=
+Variation4=Designator=J9|UniqueId=\GEYHJMZS\HQYQOTEN|Kind=1|AlternatePart=
+Variation5=Designator=IC23|UniqueId=\GEYHJMZS\WZSSQUUJ|Kind=1|AlternatePart==Device
+ParamVariation3=ParameterName=Comment|VariantValue==Device
+ParamDesignator3=IC23
+Variation6=Designator=T10|UniqueId=\GEYHJMZS\OHAYFRPS|Kind=1|AlternatePart==Device
 ParamVariation4=ParameterName=Comment|VariantValue==Device
-ParamDesignator4=IC23
-Variation8=Designator=T10|UniqueId=\GEYHJMZS\OHAYFRPS|Kind=1|AlternatePart==Device
+ParamDesignator4=T10
+Variation7=Designator=IC28|UniqueId=\GEYHJMZS\TRKSXKDI|Kind=1|AlternatePart==Device
 ParamVariation5=ParameterName=Comment|VariantValue==Device
-ParamDesignator5=T10
-Variation9=Designator=IC28|UniqueId=\GEYHJMZS\TRKSXKDI|Kind=1|AlternatePart==Device
+ParamDesignator5=IC28
+Variation8=Designator=IC24|UniqueId=\GEYHJMZS\QNOCTBSI|Kind=1|AlternatePart==Device
 ParamVariation6=ParameterName=Comment|VariantValue==Device
-ParamDesignator6=IC28
-Variation10=Designator=IC24|UniqueId=\GEYHJMZS\QNOCTBSI|Kind=1|AlternatePart==Device
+ParamDesignator6=IC24
+Variation9=Designator=IC25|UniqueId=\SYOYBESX\AWXLDTHZ|Kind=1|AlternatePart==Device
 ParamVariation7=ParameterName=Comment|VariantValue==Device
-ParamDesignator7=IC24
-Variation11=Designator=IC25|UniqueId=\SYOYBESX\AWXLDTHZ|Kind=1|AlternatePart==Device
-ParamVariation8=ParameterName=Comment|VariantValue==Device
-ParamDesignator8=IC25
-Variation12=Designator=R268|UniqueId=\SYOYBESX\XEFMDIZZ|Kind=1|AlternatePart==Value
+ParamDesignator7=IC25
+Variation10=Designator=R268|UniqueId=\SYOYBESX\XEFMDIZZ|Kind=1|AlternatePart==Value
+ParamVariation8=ParameterName=Comment|VariantValue==Value
+ParamDesignator8=R268
+Variation11=Designator=R269|UniqueId=\SYOYBESX\GNXYUUDR|Kind=1|AlternatePart==Value
 ParamVariation9=ParameterName=Comment|VariantValue==Value
-ParamDesignator9=R268
-Variation13=Designator=R269|UniqueId=\SYOYBESX\GNXYUUDR|Kind=1|AlternatePart==Value
+ParamDesignator9=R269
+Variation12=Designator=R270|UniqueId=\SYOYBESX\KKUAUHHU|Kind=1|AlternatePart==Value
 ParamVariation10=ParameterName=Comment|VariantValue==Value
-ParamDesignator10=R269
-Variation14=Designator=R270|UniqueId=\SYOYBESX\KKUAUHHU|Kind=1|AlternatePart==Value
+ParamDesignator10=R270
+Variation13=Designator=R271|UniqueId=\SYOYBESX\HTPSVSTP|Kind=1|AlternatePart==Value
 ParamVariation11=ParameterName=Comment|VariantValue==Value
-ParamDesignator11=R270
-Variation15=Designator=R271|UniqueId=\SYOYBESX\HTPSVSTP|Kind=1|AlternatePart==Value
+ParamDesignator11=R271
+Variation14=Designator=R3|UniqueId=\SYOYBESX\EREUDPDI|Kind=1|AlternatePart==Value
 ParamVariation12=ParameterName=Comment|VariantValue==Value
-ParamDesignator12=R271
-Variation16=Designator=R235|UniqueId=\SYOYBESX\BQSBGRDH|Kind=1|AlternatePart==Value
+ParamDesignator12=R3
+Variation15=Designator=R233|UniqueId=\SYOYBESX\CHNPQNOE|Kind=1|AlternatePart==Value
 ParamVariation13=ParameterName=Comment|VariantValue==Value
-ParamDesignator13=R235
-Variation17=Designator=R236|UniqueId=\SYOYBESX\NSULXXDO|Kind=1|AlternatePart==Value
+ParamDesignator13=R233
+Variation16=Designator=RN1_1|UniqueId=\1XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
 ParamVariation14=ParameterName=Comment|VariantValue==Value
-ParamDesignator14=R236
-Variation18=Designator=R238|UniqueId=\SYOYBESX\HZSIOBVI|Kind=1|AlternatePart==Value
+ParamDesignator14=RN1_1
+Variation17=Designator=RN1_8|UniqueId=\8XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
 ParamVariation15=ParameterName=Comment|VariantValue==Value
-ParamDesignator15=R238
-Variation19=Designator=R239|UniqueId=\SYOYBESX\LEWKEPZT|Kind=1|AlternatePart==Value
+ParamDesignator15=RN1_8
+Variation18=Designator=RN1_7|UniqueId=\7XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
 ParamVariation16=ParameterName=Comment|VariantValue==Value
-ParamDesignator16=R239
-Variation20=Designator=R240|UniqueId=\SYOYBESX\OIXHZRFU|Kind=1|AlternatePart==Value
+ParamDesignator16=RN1_7
+Variation19=Designator=RN1_6|UniqueId=\6XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
 ParamVariation17=ParameterName=Comment|VariantValue==Value
-ParamDesignator17=R240
-Variation21=Designator=R241|UniqueId=\SYOYBESX\QMJJBNYS|Kind=1|AlternatePart==Value
+ParamDesignator17=RN1_6
+Variation20=Designator=RN1_5|UniqueId=\5XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
 ParamVariation18=ParameterName=Comment|VariantValue==Value
-ParamDesignator18=R241
-Variation22=Designator=R242|UniqueId=\SYOYBESX\BZSPWRTU|Kind=1|AlternatePart==Value
+ParamDesignator18=RN1_5
+Variation21=Designator=RN1_4|UniqueId=\4XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
 ParamVariation19=ParameterName=Comment|VariantValue==Value
-ParamDesignator19=R242
-Variation23=Designator=R243|UniqueId=\SYOYBESX\QRGOQZRJ|Kind=1|AlternatePart==Value
+ParamDesignator19=RN1_4
+Variation22=Designator=RN1_3|UniqueId=\3XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
 ParamVariation20=ParameterName=Comment|VariantValue==Value
-ParamDesignator20=R243
-Variation24=Designator=R244|UniqueId=\SYOYBESX\EPZBUVHU|Kind=1|AlternatePart==Value
+ParamDesignator20=RN1_3
+Variation23=Designator=RN1_2|UniqueId=\2XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
 ParamVariation21=ParameterName=Comment|VariantValue==Value
-ParamDesignator21=R244
-Variation25=Designator=R245|UniqueId=\SYOYBESX\OCQQQYPG|Kind=1|AlternatePart==Value
+ParamDesignator21=RN1_2
+Variation24=Designator=C66_1|UniqueId=\1XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
 ParamVariation22=ParameterName=Comment|VariantValue==Value
-ParamDesignator22=R245
-Variation26=Designator=R246|UniqueId=\SYOYBESX\FNPFBEPY|Kind=1|AlternatePart==Value
+ParamDesignator22=C66_1
+Variation25=Designator=C66_8|UniqueId=\8XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
 ParamVariation23=ParameterName=Comment|VariantValue==Value
-ParamDesignator23=R246
-Variation27=Designator=R247|UniqueId=\SYOYBESX\MJAQCEPJ|Kind=1|AlternatePart==Value
+ParamDesignator23=C66_8
+Variation26=Designator=C66_7|UniqueId=\7XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
 ParamVariation24=ParameterName=Comment|VariantValue==Value
-ParamDesignator24=R247
-Variation28=Designator=R248|UniqueId=\SYOYBESX\SQXVYQUB|Kind=1|AlternatePart==Value
+ParamDesignator24=C66_7
+Variation27=Designator=C66_6|UniqueId=\6XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
 ParamVariation25=ParameterName=Comment|VariantValue==Value
-ParamDesignator25=R248
-Variation29=Designator=R249|UniqueId=\SYOYBESX\LVEGUBYP|Kind=1|AlternatePart==Value
+ParamDesignator25=C66_6
+Variation28=Designator=C66_5|UniqueId=\5XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
 ParamVariation26=ParameterName=Comment|VariantValue==Value
-ParamDesignator26=R249
-Variation30=Designator=R250|UniqueId=\SYOYBESX\BLUDJWJP|Kind=1|AlternatePart==Value
+ParamDesignator26=C66_5
+Variation29=Designator=C66_4|UniqueId=\4XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
 ParamVariation27=ParameterName=Comment|VariantValue==Value
-ParamDesignator27=R250
-Variation31=Designator=R252|UniqueId=\SYOYBESX\ISXGZUWS|Kind=1|AlternatePart==Value
+ParamDesignator27=C66_4
+Variation30=Designator=C66_3|UniqueId=\3XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
 ParamVariation28=ParameterName=Comment|VariantValue==Value
-ParamDesignator28=R252
-Variation32=Designator=R253|UniqueId=\SYOYBESX\FLQJDLRL|Kind=1|AlternatePart==Value
+ParamDesignator28=C66_3
+Variation31=Designator=C66_2|UniqueId=\2XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
 ParamVariation29=ParameterName=Comment|VariantValue==Value
-ParamDesignator29=R253
-Variation33=Designator=R254|UniqueId=\SYOYBESX\MCFFSRGJ|Kind=1|AlternatePart==Value
+ParamDesignator29=C66_2
+Variation32=Designator=C68_1|UniqueId=\1XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
 ParamVariation30=ParameterName=Comment|VariantValue==Value
-ParamDesignator30=R254
-Variation34=Designator=R255|UniqueId=\SYOYBESX\CNDQIDXU|Kind=1|AlternatePart==Value
+ParamDesignator30=C68_1
+Variation33=Designator=C68_8|UniqueId=\8XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
 ParamVariation31=ParameterName=Comment|VariantValue==Value
-ParamDesignator31=R255
-Variation35=Designator=R256|UniqueId=\SYOYBESX\TNTOPSTI|Kind=1|AlternatePart==Value
+ParamDesignator31=C68_8
+Variation34=Designator=C68_7|UniqueId=\7XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
 ParamVariation32=ParameterName=Comment|VariantValue==Value
-ParamDesignator32=R256
-Variation36=Designator=R257|UniqueId=\SYOYBESX\ZNLPNGGD|Kind=1|AlternatePart==Value
+ParamDesignator32=C68_7
+Variation35=Designator=C68_6|UniqueId=\6XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
 ParamVariation33=ParameterName=Comment|VariantValue==Value
-ParamDesignator33=R257
-Variation37=Designator=R258|UniqueId=\SYOYBESX\LTEGBSBB|Kind=1|AlternatePart==Value
+ParamDesignator33=C68_6
+Variation36=Designator=C68_5|UniqueId=\5XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
 ParamVariation34=ParameterName=Comment|VariantValue==Value
-ParamDesignator34=R258
-Variation38=Designator=R259|UniqueId=\SYOYBESX\SLZNYBUM|Kind=1|AlternatePart==Value
+ParamDesignator34=C68_5
+Variation37=Designator=C68_4|UniqueId=\4XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
 ParamVariation35=ParameterName=Comment|VariantValue==Value
-ParamDesignator35=R259
-Variation39=Designator=R260|UniqueId=\SYOYBESX\RYVYZKAQ|Kind=1|AlternatePart==Value
+ParamDesignator35=C68_4
+Variation38=Designator=C68_3|UniqueId=\3XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
 ParamVariation36=ParameterName=Comment|VariantValue==Value
-ParamDesignator36=R260
-Variation40=Designator=R261|UniqueId=\SYOYBESX\FJYIPVKU|Kind=1|AlternatePart==Value
+ParamDesignator36=C68_3
+Variation39=Designator=C68_2|UniqueId=\2XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
 ParamVariation37=ParameterName=Comment|VariantValue==Value
-ParamDesignator37=R261
-Variation41=Designator=R262|UniqueId=\SYOYBESX\PNVMJCER|Kind=1|AlternatePart==Value
+ParamDesignator37=C68_2
+Variation40=Designator=C89_1|UniqueId=\1XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
 ParamVariation38=ParameterName=Comment|VariantValue==Value
-ParamDesignator38=R262
-Variation42=Designator=R263|UniqueId=\SYOYBESX\BECQHQLK|Kind=1|AlternatePart==Value
+ParamDesignator38=C89_1
+Variation41=Designator=C89_8|UniqueId=\8XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
 ParamVariation39=ParameterName=Comment|VariantValue==Value
-ParamDesignator39=R263
-Variation43=Designator=R264|UniqueId=\SYOYBESX\ONUMPLQM|Kind=1|AlternatePart==Value
+ParamDesignator39=C89_8
+Variation42=Designator=C89_7|UniqueId=\7XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
 ParamVariation40=ParameterName=Comment|VariantValue==Value
-ParamDesignator40=R264
-Variation44=Designator=R265|UniqueId=\SYOYBESX\ATDJEZJY|Kind=1|AlternatePart==Value
+ParamDesignator40=C89_7
+Variation43=Designator=C89_6|UniqueId=\6XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
 ParamVariation41=ParameterName=Comment|VariantValue==Value
-ParamDesignator41=R265
-Variation45=Designator=R266|UniqueId=\SYOYBESX\KQCOBMFA|Kind=1|AlternatePart==Value
+ParamDesignator41=C89_6
+Variation44=Designator=C89_5|UniqueId=\5XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
 ParamVariation42=ParameterName=Comment|VariantValue==Value
-ParamDesignator42=R266
-Variation46=Designator=R251|UniqueId=\SYOYBESX\KNLDDHNU|Kind=1|AlternatePart==Value
+ParamDesignator42=C89_5
+Variation45=Designator=C89_4|UniqueId=\4XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
 ParamVariation43=ParameterName=Comment|VariantValue==Value
-ParamDesignator43=R251
-Variation47=Designator=R267|UniqueId=\SYOYBESX\UIOCPNJL|Kind=1|AlternatePart==Value
+ParamDesignator43=C89_4
+Variation46=Designator=C89_3|UniqueId=\3XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
 ParamVariation44=ParameterName=Comment|VariantValue==Value
-ParamDesignator44=R267
-Variation48=Designator=R3|UniqueId=\SYOYBESX\EREUDPDI|Kind=1|AlternatePart==Value
+ParamDesignator44=C89_3
+Variation47=Designator=C89_2|UniqueId=\2XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
 ParamVariation45=ParameterName=Comment|VariantValue==Value
-ParamDesignator45=R3
-Variation49=Designator=R233|UniqueId=\SYOYBESX\CHNPQNOE|Kind=1|AlternatePart==Value
+ParamDesignator45=C89_2
+Variation48=Designator=C35_1|UniqueId=\1XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
 ParamVariation46=ParameterName=Comment|VariantValue==Value
-ParamDesignator46=R233
-Variation50=Designator=RN1_1|UniqueId=\1XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
+ParamDesignator46=C35_1
+Variation49=Designator=C35_8|UniqueId=\8XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
 ParamVariation47=ParameterName=Comment|VariantValue==Value
-ParamDesignator47=RN1_1
-Variation51=Designator=RN1_8|UniqueId=\8XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
+ParamDesignator47=C35_8
+Variation50=Designator=C35_7|UniqueId=\7XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
 ParamVariation48=ParameterName=Comment|VariantValue==Value
-ParamDesignator48=RN1_8
-Variation52=Designator=RN1_7|UniqueId=\7XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
+ParamDesignator48=C35_7
+Variation51=Designator=C35_6|UniqueId=\6XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
 ParamVariation49=ParameterName=Comment|VariantValue==Value
-ParamDesignator49=RN1_7
-Variation53=Designator=RN1_6|UniqueId=\6XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
+ParamDesignator49=C35_6
+Variation52=Designator=C35_5|UniqueId=\5XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
 ParamVariation50=ParameterName=Comment|VariantValue==Value
-ParamDesignator50=RN1_6
-Variation54=Designator=RN1_5|UniqueId=\5XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
+ParamDesignator50=C35_5
+Variation53=Designator=C35_4|UniqueId=\4XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
 ParamVariation51=ParameterName=Comment|VariantValue==Value
-ParamDesignator51=RN1_5
-Variation55=Designator=RN1_4|UniqueId=\4XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
+ParamDesignator51=C35_4
+Variation54=Designator=C35_3|UniqueId=\3XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
 ParamVariation52=ParameterName=Comment|VariantValue==Value
-ParamDesignator52=RN1_4
-Variation56=Designator=RN1_3|UniqueId=\3XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
+ParamDesignator52=C35_3
+Variation55=Designator=C35_2|UniqueId=\2XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
 ParamVariation53=ParameterName=Comment|VariantValue==Value
-ParamDesignator53=RN1_3
-Variation57=Designator=RN1_2|UniqueId=\2XGIDEBDC\TVLQOPKX|Kind=1|AlternatePart==Value
+ParamDesignator53=C35_2
+Variation56=Designator=R7|UniqueId=\VEBUTSPR\IJJJGDKR|Kind=1|AlternatePart==Value
 ParamVariation54=ParameterName=Comment|VariantValue==Value
-ParamDesignator54=RN1_2
-Variation58=Designator=C66_1|UniqueId=\1XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
-ParamVariation55=ParameterName=Comment|VariantValue==Value
-ParamDesignator55=C66_1
-Variation59=Designator=C66_8|UniqueId=\8XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
-ParamVariation56=ParameterName=Comment|VariantValue==Value
-ParamDesignator56=C66_8
-Variation60=Designator=C66_7|UniqueId=\7XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
-ParamVariation57=ParameterName=Comment|VariantValue==Value
-ParamDesignator57=C66_7
-Variation61=Designator=C66_6|UniqueId=\6XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
-ParamVariation58=ParameterName=Comment|VariantValue==Value
-ParamDesignator58=C66_6
-Variation62=Designator=C66_5|UniqueId=\5XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
-ParamVariation59=ParameterName=Comment|VariantValue==Value
-ParamDesignator59=C66_5
-Variation63=Designator=C66_4|UniqueId=\4XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
-ParamVariation60=ParameterName=Comment|VariantValue==Value
-ParamDesignator60=C66_4
-Variation64=Designator=C66_3|UniqueId=\3XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
-ParamVariation61=ParameterName=Comment|VariantValue==Value
-ParamDesignator61=C66_3
-Variation65=Designator=C66_2|UniqueId=\2XGIDEBDC\RSXFYRJB|Kind=1|AlternatePart==Value
-ParamVariation62=ParameterName=Comment|VariantValue==Value
-ParamDesignator62=C66_2
-Variation66=Designator=C68_1|UniqueId=\1XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
-ParamVariation63=ParameterName=Comment|VariantValue==Value
-ParamDesignator63=C68_1
-Variation67=Designator=C68_8|UniqueId=\8XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
-ParamVariation64=ParameterName=Comment|VariantValue==Value
-ParamDesignator64=C68_8
-Variation68=Designator=C68_7|UniqueId=\7XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
-ParamVariation65=ParameterName=Comment|VariantValue==Value
-ParamDesignator65=C68_7
-Variation69=Designator=C68_6|UniqueId=\6XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
-ParamVariation66=ParameterName=Comment|VariantValue==Value
-ParamDesignator66=C68_6
-Variation70=Designator=C68_5|UniqueId=\5XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
-ParamVariation67=ParameterName=Comment|VariantValue==Value
-ParamDesignator67=C68_5
-Variation71=Designator=C68_4|UniqueId=\4XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
-ParamVariation68=ParameterName=Comment|VariantValue==Value
-ParamDesignator68=C68_4
-Variation72=Designator=C68_3|UniqueId=\3XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
-ParamVariation69=ParameterName=Comment|VariantValue==Value
-ParamDesignator69=C68_3
-Variation73=Designator=C68_2|UniqueId=\2XGIDEBDC\RVMURFZW|Kind=1|AlternatePart==Value
-ParamVariation70=ParameterName=Comment|VariantValue==Value
-ParamDesignator70=C68_2
-Variation74=Designator=C89_1|UniqueId=\1XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
-ParamVariation71=ParameterName=Comment|VariantValue==Value
-ParamDesignator71=C89_1
-Variation75=Designator=C89_8|UniqueId=\8XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
-ParamVariation72=ParameterName=Comment|VariantValue==Value
-ParamDesignator72=C89_8
-Variation76=Designator=C89_7|UniqueId=\7XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
-ParamVariation73=ParameterName=Comment|VariantValue==Value
-ParamDesignator73=C89_7
-Variation77=Designator=C89_6|UniqueId=\6XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
-ParamVariation74=ParameterName=Comment|VariantValue==Value
-ParamDesignator74=C89_6
-Variation78=Designator=C89_5|UniqueId=\5XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
-ParamVariation75=ParameterName=Comment|VariantValue==Value
-ParamDesignator75=C89_5
-Variation79=Designator=C89_4|UniqueId=\4XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
-ParamVariation76=ParameterName=Comment|VariantValue==Value
-ParamDesignator76=C89_4
-Variation80=Designator=C89_3|UniqueId=\3XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
-ParamVariation77=ParameterName=Comment|VariantValue==Value
-ParamDesignator77=C89_3
-Variation81=Designator=C89_2|UniqueId=\2XGIDEBDC\ZBRMLAPC|Kind=1|AlternatePart==Value
-ParamVariation78=ParameterName=Comment|VariantValue==Value
-ParamDesignator78=C89_2
-Variation82=Designator=C35_1|UniqueId=\1XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
-ParamVariation79=ParameterName=Comment|VariantValue==Value
-ParamDesignator79=C35_1
-Variation83=Designator=C35_8|UniqueId=\8XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
-ParamVariation80=ParameterName=Comment|VariantValue==Value
-ParamDesignator80=C35_8
-Variation84=Designator=C35_7|UniqueId=\7XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
-ParamVariation81=ParameterName=Comment|VariantValue==Value
-ParamDesignator81=C35_7
-Variation85=Designator=C35_6|UniqueId=\6XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
-ParamVariation82=ParameterName=Comment|VariantValue==Value
-ParamDesignator82=C35_6
-Variation86=Designator=C35_5|UniqueId=\5XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
-ParamVariation83=ParameterName=Comment|VariantValue==Value
-ParamDesignator83=C35_5
-Variation87=Designator=C35_4|UniqueId=\4XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
-ParamVariation84=ParameterName=Comment|VariantValue==Value
-ParamDesignator84=C35_4
-Variation88=Designator=C35_3|UniqueId=\3XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
-ParamVariation85=ParameterName=Comment|VariantValue==Value
-ParamDesignator85=C35_3
-Variation89=Designator=C35_2|UniqueId=\2XGIDEBDC\NVDAUZTR|Kind=1|AlternatePart==Value
-ParamVariation86=ParameterName=Comment|VariantValue==Value
-ParamDesignator86=C35_2
-Variation90=Designator=R7|UniqueId=\VEBUTSPR\IJJJGDKR|Kind=1|AlternatePart==Value
-ParamVariation87=ParameterName=Comment|VariantValue==Value
-ParamDesignator87=R7
-Variation91=Designator=IC10|UniqueId=\JXXDKECP\XLROCKHJ|Kind=1|AlternatePart==Device
-ParamVariation88=ParameterName=Comment|VariantValue==Device
-ParamDesignator88=IC10
-Variation92=Designator=R187|UniqueId=\HFAGDKZA\OJMMLSWO|Kind=1|AlternatePart==Value
-ParamVariation89=ParameterName=Comment|VariantValue==Value
-ParamDesignator89=R187
-ParamVariationCount=89
+ParamDesignator54=R7
+Variation57=Designator=IC10|UniqueId=\JXXDKECP\XLROCKHJ|Kind=1|AlternatePart==Device
+ParamVariation55=ParameterName=Comment|VariantValue==Device
+ParamDesignator55=IC10
+ParamVariationCount=55
 
 [ProjectVariant2]
 UniqueId=701465B6-EA4C-47A2-8199-A747BBE2AAE1
 Description=DIOT_High_Precision
 AllowFabrication=0
 ParameterCount=0
-VariationCount=55
+VariationCount=52
 Variation1=Designator=RN5_1|UniqueId=\1XGIDEBDC\PGPHTJGZ|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistor Networks SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RN_10K_10K_VISHAY_Y1747V0008QT9|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistor Networks SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=SOIC127P600X175-8N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=RN5_1
@@ -1315,148 +1212,19 @@ ParamVariation287=ParameterName=Tolerance|VariantValue=±0.02%
 ParamDesignator287=RN5_3
 ParamVariation288=ParameterName=Value|VariantValue=10k
 ParamDesignator288=RN5_3
-Variation49=Designator=RN2|UniqueId=\HFAGDKZA\WRKWIITX|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistor Networks SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RN_10K_10K_VISHAY_Y1747V0008QT9|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistor Networks SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=SOIC127P600X175-8N|AltLibLink_IsSameFootprint=True
+Variation49=Designator=C94|UniqueId=\HFAGDKZA\KNIHHOIH|Kind=1|AlternatePart==Value
 ParamVariation289=ParameterName=Comment|VariantValue==Value
-ParamDesignator289=RN2
-ParamVariation290=ParameterName=Case|VariantValue=SOIC8
-ParamDesignator290=RN2
-ParamVariation291=ParameterName=ComponentHeight|VariantValue=1.86mm
-ParamDesignator291=RN2
-ParamVariation292=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator292=RN2
-ParamVariation293=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator293=RN2
-ParamVariation294=ParameterName=CreateDate|VariantValue=02.09.2019
-ParamDesignator294=RN2
-ParamVariation295=ParameterName=Database Table Name|VariantValue=Resistor Networks SMD
-ParamDesignator295=RN2
-ParamVariation296=ParameterName=Description|VariantValue=DIL8 Resistor Network 4 Isolated Resistor 0.01%
-ParamDesignator296=RN2
-ParamVariation297=ParameterName=Footprint|VariantValue=SOIC127P600X175-8N
-ParamDesignator297=RN2
-ParamVariation298=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\RN_VISHAY_SMNZ.pdf
-ParamDesignator298=RN2
-ParamVariation299=ParameterName=Ibis Model|VariantValue=
-ParamDesignator299=RN2
-ParamVariation300=ParameterName=LatestRevisionDate|VariantValue=02.09.2019
-ParamDesignator300=RN2
-ParamVariation301=ParameterName=Library Reference|VariantValue=RN_10K_10K_VISHAY_Y1747V0008QT9
-ParamDesignator301=RN2
-ParamVariation302=ParameterName=Manufacturer|VariantValue=VISHAY FOIL RESISTOR
-ParamDesignator302=RN2
-ParamVariation303=ParameterName=Manufacturer Part Number|VariantValue=Y1747V0008QT9
-ParamDesignator303=RN2
-ParamVariation304=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator304=RN2
-ParamVariation305=ParameterName=Part Description|VariantValue=Ultra High Precision Z-Foil Surface Mount 4 Resistors Network, SMNZ Series
-ParamDesignator305=RN2
-ParamVariation306=ParameterName=Part Number|VariantValue=RN_10K_10K_VISHAY_Y1747V0008QT9
-ParamDesignator306=RN2
-ParamVariation307=ParameterName=PCB3D|VariantValue=
-ParamDesignator307=RN2
-ParamVariation308=ParameterName=Pin Count|VariantValue=8
-ParamDesignator308=RN2
-ParamVariation309=ParameterName=Pin Info|VariantValue=
-ParamDesignator309=RN2
-ParamVariation310=ParameterName=Power|VariantValue=4x0.1W
-ParamDesignator310=RN2
-ParamVariation311=ParameterName=PressFit|VariantValue=No
-ParamDesignator311=RN2
-ParamVariation312=ParameterName=Sense|VariantValue=No
-ParamDesignator312=RN2
-ParamVariation313=ParameterName=Signal Integrity|VariantValue=
-ParamDesignator313=RN2
-ParamVariation314=ParameterName=Simulation|VariantValue=
-ParamDesignator314=RN2
-ParamVariation315=ParameterName=SMD|VariantValue=Yes
-ParamDesignator315=RN2
-ParamVariation316=ParameterName=Socket|VariantValue=No
-ParamDesignator316=RN2
-ParamVariation317=ParameterName=TC|VariantValue=±0.2ppm/°C
-ParamDesignator317=RN2
-ParamVariation318=ParameterName=Tolerance|VariantValue=±0.02%
-ParamDesignator318=RN2
-ParamVariation319=ParameterName=Value|VariantValue=10k
-ParamDesignator319=RN2
-Variation50=Designator=RN3|UniqueId=\HFAGDKZA\ITLSQOMK|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\DESIGNS\COMMON_LIBS\CernLib\Resistors.DbLib/Resistor Networks SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RN_10K_10K_VISHAY_Y1747V0008QT9|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistor Networks SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=SOIC127P600X175-8N|AltLibLink_IsSameFootprint=True
-ParamVariation320=ParameterName=Comment|VariantValue==Value
-ParamDesignator320=RN3
-ParamVariation321=ParameterName=Case|VariantValue=SOIC8
-ParamDesignator321=RN3
-ParamVariation322=ParameterName=ComponentHeight|VariantValue=1.86mm
-ParamDesignator322=RN3
-ParamVariation323=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator323=RN3
-ParamVariation324=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator324=RN3
-ParamVariation325=ParameterName=CreateDate|VariantValue=02.09.2019
-ParamDesignator325=RN3
-ParamVariation326=ParameterName=Database Table Name|VariantValue=Resistor Networks SMD
-ParamDesignator326=RN3
-ParamVariation327=ParameterName=Description|VariantValue=DIL8 Resistor Network 4 Isolated Resistor 0.01%
-ParamDesignator327=RN3
-ParamVariation328=ParameterName=Footprint|VariantValue=SOIC127P600X175-8N
-ParamDesignator328=RN3
-ParamVariation329=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\RN_VISHAY_SMNZ.pdf
-ParamDesignator329=RN3
-ParamVariation330=ParameterName=Ibis Model|VariantValue=
-ParamDesignator330=RN3
-ParamVariation331=ParameterName=LatestRevisionDate|VariantValue=02.09.2019
-ParamDesignator331=RN3
-ParamVariation332=ParameterName=Library Reference|VariantValue=RN_10K_10K_VISHAY_Y1747V0008QT9
-ParamDesignator332=RN3
-ParamVariation333=ParameterName=Manufacturer|VariantValue=VISHAY FOIL RESISTOR
-ParamDesignator333=RN3
-ParamVariation334=ParameterName=Manufacturer Part Number|VariantValue=Y1747V0008QT9
-ParamDesignator334=RN3
-ParamVariation335=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator335=RN3
-ParamVariation336=ParameterName=Part Description|VariantValue=Ultra High Precision Z-Foil Surface Mount 4 Resistors Network, SMNZ Series
-ParamDesignator336=RN3
-ParamVariation337=ParameterName=Part Number|VariantValue=RN_10K_10K_VISHAY_Y1747V0008QT9
-ParamDesignator337=RN3
-ParamVariation338=ParameterName=PCB3D|VariantValue=
-ParamDesignator338=RN3
-ParamVariation339=ParameterName=Pin Count|VariantValue=8
-ParamDesignator339=RN3
-ParamVariation340=ParameterName=Pin Info|VariantValue=
-ParamDesignator340=RN3
-ParamVariation341=ParameterName=Power|VariantValue=4x0.1W
-ParamDesignator341=RN3
-ParamVariation342=ParameterName=PressFit|VariantValue=No
-ParamDesignator342=RN3
-ParamVariation343=ParameterName=Sense|VariantValue=No
-ParamDesignator343=RN3
-ParamVariation344=ParameterName=Signal Integrity|VariantValue=
-ParamDesignator344=RN3
-ParamVariation345=ParameterName=Simulation|VariantValue=
-ParamDesignator345=RN3
-ParamVariation346=ParameterName=SMD|VariantValue=Yes
-ParamDesignator346=RN3
-ParamVariation347=ParameterName=Socket|VariantValue=No
-ParamDesignator347=RN3
-ParamVariation348=ParameterName=TC|VariantValue=±0.2ppm/°C
-ParamDesignator348=RN3
-ParamVariation349=ParameterName=Tolerance|VariantValue=±0.02%
-ParamDesignator349=RN3
-ParamVariation350=ParameterName=Value|VariantValue=10k
-ParamDesignator350=RN3
-Variation51=Designator=R187|UniqueId=\HFAGDKZA\OJMMLSWO|Kind=1|AlternatePart==Value
-ParamVariation351=ParameterName=Comment|VariantValue==Value
-ParamDesignator351=R187
-Variation52=Designator=C94|UniqueId=\HFAGDKZA\KNIHHOIH|Kind=1|AlternatePart==Value
-ParamVariation352=ParameterName=Comment|VariantValue==Value
-ParamDesignator352=C94
-Variation53=Designator=IC12|UniqueId=\HFAGDKZA\ICPKYPXS|Kind=1|AlternatePart==Device
-ParamVariation353=ParameterName=Comment|VariantValue==Device
-ParamDesignator353=IC12
-Variation54=Designator=R7|UniqueId=\VEBUTSPR\IJJJGDKR|Kind=1|AlternatePart==Value
-ParamVariation354=ParameterName=Comment|VariantValue==Value
-ParamDesignator354=R7
-Variation55=Designator=IC10|UniqueId=\JXXDKECP\XLROCKHJ|Kind=1|AlternatePart==Device
-ParamVariation355=ParameterName=Comment|VariantValue==Device
-ParamDesignator355=IC10
-ParamVariationCount=355
+ParamDesignator289=C94
+Variation50=Designator=IC12|UniqueId=\HFAGDKZA\ICPKYPXS|Kind=1|AlternatePart==Device
+ParamVariation290=ParameterName=Comment|VariantValue==Device
+ParamDesignator290=IC12
+Variation51=Designator=R7|UniqueId=\VEBUTSPR\IJJJGDKR|Kind=1|AlternatePart==Value
+ParamVariation291=ParameterName=Comment|VariantValue==Value
+ParamDesignator291=R7
+Variation52=Designator=IC10|UniqueId=\JXXDKECP\XLROCKHJ|Kind=1|AlternatePart==Device
+ParamVariation292=ParameterName=Comment|VariantValue==Device
+ParamDesignator292=IC10
+ParamVariationCount=292
 
 [SearchPath1]
 Path=Z:\PCBs\altium\CernLib_2020.03.06\*.DbLib
@@ -1694,6 +1462,12 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=PDF3D MBA
+OutputName13=PDF3D MBA
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1972,6 +1746,46 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
+OutputType11=MBAExportPARASOLID
+OutputName11=Export PARASOLID
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=MBAExportSTEP
+OutputName12=Export STEP
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2414,10 +2228,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Resistors.DbLib/Resistors SMD
+ComponentDesignItemID0=R0603_0R_JUMPER
+ComponentSymbolReference0=Resistor
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2431,6 +2251,63 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Author
+ParameterUpdate0=1
+ParameterName1=Case
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=Component Type
+ParameterUpdate4=1
+ParameterName5=CreateDate
+ParameterUpdate5=1
+ParameterName6=Description
+ParameterUpdate6=1
+ParameterName7=Footprint
+ParameterUpdate7=1
+ParameterName8=HelpURL
+ParameterUpdate8=1
+ParameterName9=LatestRevisionDate
+ParameterUpdate9=1
+ParameterName10=Library Reference
+ParameterUpdate10=1
+ParameterName11=Manufacturer
+ParameterUpdate11=1
+ParameterName12=Manufacturer Part Number
+ParameterUpdate12=1
+ParameterName13=Manufacturer1 ComponentHeight
+ParameterUpdate13=1
+ParameterName14=Manufacturer1 Example
+ParameterUpdate14=1
+ParameterName15=Manufacturer1 Part Number
+ParameterUpdate15=1
+ParameterName16=Mounted
+ParameterUpdate16=1
+ParameterName17=Part Description
+ParameterUpdate17=1
+ParameterName18=Part Number
+ParameterUpdate18=1
+ParameterName19=Pin Count
+ParameterUpdate19=1
+ParameterName20=PressFit
+ParameterUpdate20=1
+ParameterName21=Sense
+ParameterUpdate21=1
+ParameterName22=SMD
+ParameterUpdate22=1
+ParameterName23=Socket
+ParameterUpdate23=1
+ParameterName24=Status
+ParameterUpdate24=1
+ParameterName25=Value
+ParameterUpdate25=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=RESC1608X55N
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
